@@ -1,0 +1,27 @@
+# Dépendances
+node_modules/
+dist/
+build/
+
+# Fichiers sensibles
+.env
+*.local
+config.json
+
+# Logs
+logs/
+*.log
+npm-debug.log
+yarn-error.log
+
+# Cache
+.cache/
+.tmp/
+
+# Système et IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+.vercel
